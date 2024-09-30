@@ -89,10 +89,3 @@ ITEM_PIPELINES = {
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 #SandGrid Email settings
-API_KEY = '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'
-FROM_EMAIL = 'notificationpinnacle@gmail.com'
-TO_EMAILS = 'notificationpinnacle@gmail.com'
-
-# TeleGram Settings
-TELEGRAM_BOT_TOKEN = '1913451839:AAGRtD_w1w-0W-IqN3s0Pet37-_aj8t3gLM'
-TELEGRAM_CHAT_ID = '-542856413'
